@@ -29,4 +29,4 @@ Brazeの新機能BannersをiOSのSwift SDKにて取得し、表示する際の�
 <img width="1070" height="680" alt="スクリーンショット 2025-07-29 15 19 49" src="https://github.com/user-attachments/assets/611f3cb2-821c-4dcc-9f03-ed86a7ebc0d4" />
 
 5. キャンペーンを開始し、サンプルアプリをテスト端末で開きます。
-<img width="603" height="1311" alt="IMG_2075" src="https://github.com/user-attachments/assets/9b68a28d-719b-4367-ba38-d8612f6804ca" />
+<img width="200" height="470" alt="IMG_2075" src="https://github.com/user-attachments/assets/9b68a28d-719b-4367-ba38-d8612f6804ca" />
